@@ -4,7 +4,7 @@ This repository contains certificates for various skills I have acquired through
 
 ## Certificates
 
-- [Certificate 1](certificate1.pdf)
+- [Certificate 1](https://tidkeashok007.github.io/skill-build-certificates/)
 - [Certificate 2](certificate2.pdf)
 - [Certificate 3](certificate3.pdf)
 - ...
