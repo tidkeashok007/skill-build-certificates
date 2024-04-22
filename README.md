@@ -1,4 +1,4 @@
-![Skill Build Certificate](skillbuild.jpeg)
+![Skill Build Certificate](skillbuild.jpg)
 
 # Skill Build Certificate Repository
 
